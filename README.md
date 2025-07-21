@@ -156,7 +156,7 @@ ExamSpace uses a distributed architecture with integrated caching on both backen
 4. Container is deployed locally on the Raspberry Pi
 5. API is exposed through Cloudflare Tunnel
 6. Frontend changes are automatically deployed by Vercel
-7. New version is immediately available at [https://exam-space.vercel.app/](https://exam-space.vercel.app/)
+7. New version is immediately available at [https://examspace.pages.dev/](https://examspace.pages.dev/)
 
 # 📚 API Documentation
 
